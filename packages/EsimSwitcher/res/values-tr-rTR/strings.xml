@@ -10,7 +10,7 @@
 
     <!-- ESIM -->
     <string name="esim_title">eSIM</string>
-    <string name="esim_enable_name">eSIM'i etkinleştir</string>
+    <string name="esim_enable_name">eSIM\'i etkinleştir</string>
     <string name="esim_warning_title">eSIM kullanımda</string>
     <string name="esim_warning_message">Lütfen devam etmeden önce mevcut eSIM profilinizi devre dışı bırakın veya kaldırın</string>
     <string name="esim_footer_note">eSIM etkinleştirildiğinde ikinci SIM yuvası devre dışı kalır</string>
